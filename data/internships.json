@@ -1,0 +1,8 @@
+[
+  {"id":1,"title":"Frontend Developer Intern","company":"PixelWorks","category":"engineering","location":"Remote","type":"remote","stipend":8000,"description":"Build responsive UI components with HTML, CSS and JavaScript."},
+  {"id":2,"title":"Backend Developer Intern","company":"DataForge","category":"engineering","location":"Jaipur","type":"onsite","stipend":10000,"description":"Design REST APIs and work with SQL databases."},
+  {"id":3,"title":"UI/UX Design Intern","company":"Studio Nine","category":"design","location":"Remote","type":"remote","stipend":6000,"description":"Create wireframes and prototypes for mobile apps."},
+  {"id":4,"title":"Digital Marketing Intern","company":"GrowthLoop","category":"marketing","location":"Delhi","type":"hybrid","stipend":5000,"description":"Run social campaigns and analyse engagement metrics."},
+  {"id":5,"title":"Data Analyst Intern","company":"InsightHub","category":"data","location":"Remote","type":"remote","stipend":9000,"description":"Clean datasets, build dashboards and report insights."},
+  {"id":6,"title":"QA Testing Intern","company":"BugBusters","category":"engineering","location":"Jaipur","type":"hybrid","stipend":7000,"description":"Write test cases and automate regression tests."}
+]

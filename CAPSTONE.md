@@ -3,7 +3,7 @@
 Full-stack internship portal: vanilla HTML/CSS/JS frontend + Node.js API with SQLite, validated application form, rate limiting and automated tests. Zero npm dependencies (Node.js >= 22.5).
 
 - **Live app:**  https://internship-portal-final.onrender.com                                                                                                          
-- **Walkthrough video:** PASTE-VIDEO-URL-HERE
+- **Walkthrough video:** https://youtu.be/Hfxnl0Mxx2E
 - **Health check:** `/api/health`
 
 ## Project journey

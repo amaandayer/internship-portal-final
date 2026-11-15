@@ -33,7 +33,7 @@ npm test         # 23 automated tests
 ## Quality checks
 | Check | Result |
 | --- | --- |
-| Regression tests (`npm test`) | FILL-IN / 23 passing |
+| Regression tests (`npm test`) | 23 / 23 passing |
 | Lighthouse Accessibility | 100 / 100 |
 | Lighthouse Performance | 100 / 100 |
 | Lighthouse Best Practices | 96 / 100 |

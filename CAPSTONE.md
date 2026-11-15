@@ -34,9 +34,9 @@ npm test         # 23 automated tests
 | Check | Result |
 | --- | --- |
 | Regression tests (`npm test`) | FILL-IN / 23 passing |
-| Lighthouse Accessibility | FILL-IN / 100 |
-| Lighthouse Performance | FILL-IN / 100 |
-| Lighthouse Best Practices | FILL-IN / 100 |
+| Lighthouse Accessibility | 100 / 100 |
+| Lighthouse Performance | 100 / 100 |
+| Lighthouse Best Practices | 96 / 100 |
 | Keyboard-only navigation | FILL-IN |
 | Mobile layout (375px) | FILL-IN |
 

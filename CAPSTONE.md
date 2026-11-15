@@ -38,7 +38,7 @@ npm test         # 23 automated tests
 | Lighthouse Performance | 100 / 100 |
 | Lighthouse Best Practices | 96 / 100 |
 | Keyboard-only navigation | FILL-IN |
-| Mobile layout (375px) | FILL-IN |
+| Mobile layout (375px) | pass |
 
 See SECURITY_CHECKLIST.md and TEST_REPORT.md for details.
 

@@ -5,7 +5,7 @@ const path = require('node:path');
 const { openDb } = require('./db');
 const { validateApplication } = require('./validate');
 const { createRateLimiter } = require('./rateLimit');
-
+const { logRequests } = require('./logger');
 const PUBLIC_DIR = path.join(__dirname, '..', 'public');
 const MAX_BODY = 10 * 1024; // 10 KB
 const MIME = { '.html': 'text/html; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.css': 'text/css; charset=utf-8' };
@@ -138,6 +138,7 @@ function createApp({ db = openDb(), limits = {} } = {}) {
   });
   server.requestTimeout = 10_000;
   server.headersTimeout = 10_000;
+  server.prependListener('request', logRequests(() => {}));
   return server;
 }
 
